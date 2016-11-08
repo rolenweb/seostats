@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpwhois/phpwhois": "dev-master",
+        "mso/idna-convert": "~0.9"
+    }
+}
